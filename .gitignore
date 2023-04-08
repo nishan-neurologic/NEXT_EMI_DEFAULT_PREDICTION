@@ -1,0 +1,8 @@
+/arthan_env
+/data/processed/merged.csv
+/data/processed/output.csv
+*__pycache__*
+*.DS_Store*
+/data/raw_data/datasetsloan_od_repayments.csv
+/data/raw_data/datasetsloan_od_fulfillments.csv
+src/output_data.csv
